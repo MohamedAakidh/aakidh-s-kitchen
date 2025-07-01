@@ -160,7 +160,7 @@ body {
   line-height: 1.1;
 
   /* Bold, high-contrast stroke */
-  -webkit-text-stroke: 3px #1a1a1a;  /* Thicker and darker than before */
+  -webkit-text-stroke: 1px #1a1a1a;  /* Thicker and darker than before */
   /* Optional shadow for “pop” */
   text-shadow:
     0 2px 16px #ffb85f88,   /* golden glow */
